@@ -25,7 +25,9 @@
 
 ## Overview
 
-![](interior-consultant-homepage.png)
+![](interior-consultant-desktop.png)
+
+![](interior-consultant-mobile.png)
 
 Used gap with flexbox on the navbar vs adding margin on ul > *. 
 
