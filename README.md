@@ -21,23 +21,14 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
+- [Thoughts](#thoughts)
 - [Useful Resources](#useful-resources)
 
 ## Overview
 
-![](interior-consultant-desktop.png)
+![](interior-consultant-desktop.png "desktop")
 
-![](interior-consultant-mobile.png)
-
-Used gap with flexbox on the navbar vs adding margin on ul > *. 
-
-Adding the id to the nav for accessibility caused specificity issue when hiding the nav items. 
-
-Would have been much easier to give the card a fixed width and height.  
-
-Need to look more into semantic html for cards.
-
-If you change the card div wrapper to a section, the css breaks and the card is not overlapping the image.  
+![](interior-consultant-mobile.png "mobile") 
 
 ### Built With
 
@@ -48,6 +39,18 @@ If you change the card div wrapper to a section, the css breaks and the card is 
 ## Features
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+
+## Thoughts
+
+Used gap with flexbox on the navbar vs adding margin on ul > *. 
+
+Adding the id to the nav for accessibility caused specificity issue when hiding the nav items. 
+
+Would have been much easier to give the card a fixed width and height.  
+
+Need to look into semantic html for cards.
+
+If you change the card div wrapper to a section, the css breaks and the card is not overlapping the image. 
 
 ## Useful Resources
 
