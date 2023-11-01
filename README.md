@@ -10,7 +10,7 @@
       Live Link
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
@@ -38,19 +38,19 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
 ## Thoughts
 
-Used gap with flexbox on the navbar vs adding margin on ul > *. 
+- I used gap with flexbox on the navbar vs adding margin on ul > *. 
 
-Adding the id to the nav for accessibility caused specificity issue when hiding the nav items. 
+- Adding the id to the nav for accessibility caused a specificity issue when hiding the nav items. 
 
-Would have been much easier to give the card a fixed width and height.  
+- It would have been much easier to give the card a fixed width and height.  
 
-Need to look into semantic html for cards.
+- I need to look into semantic html for cards.
 
-If you change the card div wrapper to a section, the css breaks and the card is not overlapping the image. 
+- If you change the card div wrapper to a section, the css breaks and the card is not overlapping the image. 
 
 ## Useful Resources
 
