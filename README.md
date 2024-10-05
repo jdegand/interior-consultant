@@ -10,7 +10,7 @@
       Live Link
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://web.archive.org/web/20240526062928/https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
@@ -26,9 +26,13 @@
 
 ## Overview
 
-![](interior-consultant-desktop.png "desktop")
+![Desktop](interior-consultant-desktop.png "desktop")
 
-![](interior-consultant-mobile.png "mobile") 
+***
+
+![Mobile](interior-consultant-mobile.png "mobile")
+
+***
 
 ### Built With
 
@@ -38,11 +42,11 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://web.archive.org/web/20240526062928/https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories. **Note**: The previous design document may be incomplete, as you need to find an archived version of the challenge as all `legacy` challenges have had their documentation removed from DevChallenges.
 
 ## Thoughts
 
-- I used gap with flexbox on the navbar vs adding margin on ul > *. 
+- I used gap with flexbox on the navbar vs adding margin on `ul > *`. 
 
 - Adding the id to the nav for accessibility caused a specificity issue when hiding the nav items. 
 
